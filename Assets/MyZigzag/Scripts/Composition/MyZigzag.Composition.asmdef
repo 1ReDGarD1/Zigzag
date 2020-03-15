@@ -1,0 +1,19 @@
+{
+    "name": "MyZigzag.Composition",
+    "references": [
+        "GUID:5e5fe7f63b6bdd2478359128b166f80d",
+        "GUID:799da0de2694df74ebf58acd06229a27",
+        "GUID:6f58d492947c4a0478eba5f700f04441",
+        "GUID:2a9ba3e0d96485c49aeaede35aa54d53",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
